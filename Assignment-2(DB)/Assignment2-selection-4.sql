@@ -1,3 +1,5 @@
+#Written By Adam Sunderman - 7/25/2017
+
 #1 Find all films with maximum length or minimum rental duration (compared to all other films). 
 #In other words let L be the maximum film length, and let R be the minimum rental duration in the table film. You need to find all films that have length L or duration R or both length L and duration R.
 #You just need to return attribute film id for this query. 
