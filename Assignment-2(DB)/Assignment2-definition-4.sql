@@ -1,3 +1,5 @@
+-- Written By Adam Sunderman - 7/25/2017
+
 -- For part one of this assignment you are to make a database with the following specifications and run the following queries
 -- Table creation queries should immedatley follow the drop table queries, this is to facilitate testing on my end
 
